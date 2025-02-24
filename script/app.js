@@ -37,16 +37,16 @@ const citas = [
     "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "Ralph Waldo Emerson",
   ],
-  ["El obstáculo es el camino.", "Marco Aurelio"],
-  ["No es la muerte lo que un hombre debe temer, sino no comenzar a vivir.", "Marco Aurelio"],
-  ["Sufrimos más en la imaginación que en la realidad.", "Séneca"],
-  ["No es lo que te sucede, sino cómo reaccionas a ello lo que importa.", "Epicteto"],
-  ["Quien te enoja, te conquista.", "Epicteto"],
-  ["El hombre conquista el mundo conquistándose a sí mismo.", "Zenón de Citio"],
-  ["La mejor venganza es no ser como tu enemigo.", "Marco Aurelio"],
-  ["Las dificultades fortalecen la mente, así como el trabajo fortalece el cuerpo.", "Séneca"],
-  ["Si un hombre no sabe a qué puerto se dirige, ningún viento le es favorable.", "Séneca"],
-  ["No pierdas más tiempo discutiendo sobre lo que es un buen hombre. Sé uno.", "Marco Aurelio"]
+  ["The obstacle is the way.", "Marcus Aurelius"],
+  ["It is not death that a man should fear, but he should fear never beginning to live.", "Marcus Aurelius"],
+  ["We suffer more in imagination than in reality.", "Seneca"],
+  ["It’s not what happens to you, but how you react to it that matters.", "Epictetus"],
+  ["He who angers you conquers you.", "Epictetus"],
+  ["Man conquers the world by conquering himself.", "Zeno of Citium"],
+  ["The best revenge is not to be like your enemy.", "Marcus Aurelius"],
+  ["Difficulties strengthen the mind, just as labor strengthens the body.", "Seneca"],
+  ["If a man does not know to which port he is sailing, no wind is favorable.", "Seneca"],
+  ["Stop wasting your time debating what a good man should be. Be one.", "Marcus Aurelius"]
 ];
 
 //función ejecutada
