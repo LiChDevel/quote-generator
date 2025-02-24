@@ -37,6 +37,16 @@ const citas = [
     "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "Ralph Waldo Emerson",
   ],
+  ["El obstáculo es el camino.", "Marco Aurelio"],
+  ["No es la muerte lo que un hombre debe temer, sino no comenzar a vivir.", "Marco Aurelio"],
+  ["Sufrimos más en la imaginación que en la realidad.", "Séneca"],
+  ["No es lo que te sucede, sino cómo reaccionas a ello lo que importa.", "Epicteto"],
+  ["Quien te enoja, te conquista.", "Epicteto"],
+  ["El hombre conquista el mundo conquistándose a sí mismo.", "Zenón de Citio"],
+  ["La mejor venganza es no ser como tu enemigo.", "Marco Aurelio"],
+  ["Las dificultades fortalecen la mente, así como el trabajo fortalece el cuerpo.", "Séneca"],
+  ["Si un hombre no sabe a qué puerto se dirige, ningún viento le es favorable.", "Séneca"],
+  ["No pierdas más tiempo discutiendo sobre lo que es un buen hombre. Sé uno.", "Marco Aurelio"]
 ];
 
 //función ejecutada
